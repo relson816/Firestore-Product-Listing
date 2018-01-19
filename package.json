@@ -36,6 +36,7 @@
     "@types/jasmine": "2.8.2",
     "@types/node": "~8.0.53",
     "codelyzer": "~4.0.1",
+    "connect-modrewrite": "^0.10.2",
     "jasmine-core": "~2.8.0",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "~1.7.0",
